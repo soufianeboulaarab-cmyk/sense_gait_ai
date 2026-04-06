@@ -16,7 +16,7 @@
 2. **(Recommended) Create and activate a virtual environment:**
 
    ```sh
-   python -m venv .venv
+   py -3.10 -m venv .venv
    # On Windows:
    .venv\Scripts\activate
    # On macOS/Linux:
