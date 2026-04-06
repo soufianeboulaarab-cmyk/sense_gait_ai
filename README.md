@@ -27,6 +27,7 @@
 
    ```sh
    pip install -r requirements.txt
+   pip install mediapipe==0.10.9 scikit-learn==1.7.2 opencv-python
    ```
 
    - If you encounter issues with `opencv-python` or `mediapipe`, ensure you are using Python 3.10.
