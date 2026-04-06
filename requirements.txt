@@ -1,8 +1,5 @@
 numpy
 pandas
-opencv-python
-mediapipe==0.10.9
 joblib
 matplotlib
 seaborn
-scikit-learn==1.7.2
